@@ -10,7 +10,7 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
 -	Basic introduction to HTML, CSS
 -	JavaScript & dataviz
     + quick intro to JavaScript
-    + Intro to JSON
+    + Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
     + dataviz the example of [highchart](https://www.highcharts.com/) and d3.js[https://d3js.org/]
 -	The API revolution:
     + Introduction: what is an API ?
