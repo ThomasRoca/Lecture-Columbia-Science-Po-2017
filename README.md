@@ -1,3 +1,24 @@
+Part I. June the 1st
+
+# Lecture Columbia-Science-Po-2017: DataDriven development (1h30)
+
+### 1. Data driven development
+- 	More efficient administration/companies ?
+-   Towards more accountable State ?
+### 2. Data, the raw material of the digital revolution:
+- "Traditional" sources of data:
+    administrative data
+    survey data
+- Big Data: when it's raining information
+    - Sensor data (Sat., IoT, Cell-phone)
+    - Social network data
+- Hybrid data: Crowdsourced data
+### The Digital Humanitarian movement
+
+--- 
+
+Part II. June the 2nd
+
 # Workshop Columbia-Science-Po-2017: Datavisulisation when statistics meets datascience (2h30)
 This folder contains information and script for the dataviz workshop
 
