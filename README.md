@@ -34,7 +34,7 @@ Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
 Part II. June the 2nd
 
-# Workshop Columbia-Science-Po-2017: Datavisulisation when statistics meets datascience (2h30)
+# Workshop: Datavisulisation when statistics meets datascience (2h30)
 This folder contains information and script for the dataviz workshop
 
 For this workshop, we are going to use Python 3.4.3 and JavaScript.
