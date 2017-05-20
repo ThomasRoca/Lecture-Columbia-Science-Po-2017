@@ -6,7 +6,7 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
 
 **Here the thematic this workshop will cover:**
 -	Basic instroduction: using packages with R and Python (15 min) 
--	SIG using Carto
+-	SIG using [Carto](https://carto.com/)
 -	Basic introduction to HTML, CSS
 -	JavaScript & dataviz
     + quick intro to JavaScript
