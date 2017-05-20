@@ -20,7 +20,7 @@ Part I. June the 1st
     - Hacakthon
 - Hybrid data: Crowdsourced data
  
-### The Digital Humanitarian movement
+### 3. The Digital Humanitarian movement
 
 Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
