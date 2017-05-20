@@ -5,16 +5,31 @@ Part I. June the 1st
 ### 1. Data driven development
 - 	More efficient administration/companies ?
 -   Towards more accountable State ?
+
 ### 2. Data, the raw material of the digital revolution:
 - "Traditional" sources of data:
-    administrative data
-    survey data
+    - Administrative data
+    - Survey data
 - Big Data: when it's raining information
     - Sensor data (Sat., IoT, Cell-phone)
     - Social network data
+ - Big Data: big difficulty to get access to it
+    - A.I. the winner takes all ?
+    - Data Philanthropy
+    - Privacy, security, business
+    - Hacakthon
 - Hybrid data: Crowdsourced data
+ 
 ### The Digital Humanitarian movement
 
+Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
+
+## Further reading: 
+- UN 2015, Data Revolution Report, [A WORLD THAT COUNTS](http://www.undatarevolution.org/report/)
+- World Bank, 2016 World Development Report: [Digital Dividend] (http://www.worldbank.org/en/publication/wdr2016)
+- Meyer, P. 2015, [How Big Data is Changing the Face of Humanitarian Response](http://www.digital-humanitarians.com/)
+- Roca, T. 2015, [Toward data-driven development: Big improvement or big buzz?](https://www.devex.com/news/toward-data-driven-development-big-improvement-or-big-buzz-86192)
+- Roca, T. 2016, [Open algorithms: A new paradigm for using private data for social good](https://www.devex.com/news/open-algorithms-a-new-paradigm-for-using-private-data-for-social-good-88434)
 --- 
 
 Part II. June the 2nd
