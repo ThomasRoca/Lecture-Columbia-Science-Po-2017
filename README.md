@@ -28,7 +28,7 @@ Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 - UN 2015, Data Revolution Report, [A WORLD THAT COUNTS](http://www.undatarevolution.org/report/)
 - World Bank, 2016 World Development Report: [Digital Dividend] (http://www.worldbank.org/en/publication/wdr2016)
 - Meyer, P. 2015, [How Big Data is Changing the Face of Humanitarian Response](http://www.digital-humanitarians.com/)
-- “Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data.” Data-Pop Alliance White Paper Series. Data-Pop Alliance (Harvard Humanitarian Initiative, MIT Media Lab and Overseas Development Institute) and Internews. September 2015.
+- “Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data.” [Data-Pop Alliance White Paper Series](http://datapopalliance.org/item/beyond-data-literacy-reinventing-community-engagement-and-empowerment-in-the-age-of-data/). Data-Pop Alliance (Harvard Humanitarian Initiative, MIT Media Lab and Overseas Development Institute) and Internews. September 2015.
 - Roca, T. 2015, [Toward data-driven development: Big improvement or big buzz?](https://www.devex.com/news/toward-data-driven-development-big-improvement-or-big-buzz-86192)
 - Roca, T. 2016, [Open algorithms: A new paradigm for using private data for social good](https://www.devex.com/news/open-algorithms-a-new-paradigm-for-using-private-data-for-social-good-88434)
 
