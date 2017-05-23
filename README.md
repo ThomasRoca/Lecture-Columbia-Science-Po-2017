@@ -25,6 +25,7 @@ Part I. June the 1st
 Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
 ## Further reading: 
+- [Data Glossary](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
 - UN 2015, Data Revolution Report, [A WORLD THAT COUNTS](http://www.undatarevolution.org/report/)
 - World Bank, 2016 World Development Report: [Digital Dividend] (http://www.worldbank.org/en/publication/wdr2016)
 - Meyer, P. 2015, [How Big Data is Changing the Face of Humanitarian Response](http://www.digital-humanitarians.com/)
