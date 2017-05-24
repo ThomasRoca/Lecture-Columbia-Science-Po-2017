@@ -3,6 +3,7 @@
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://github.com/ThomasRoca/)
 
+<br>
 Part I. June the 1st
 
 ##  DataDriven development (1h30)
