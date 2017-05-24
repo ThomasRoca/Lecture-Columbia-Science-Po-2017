@@ -1,6 +1,9 @@
+# The Data Driven Lecture & workshop Columbia-SIPA / Science-Po-2017:
+*Thomas Roca, Phd, Researcher and Data Officer @Agence Française de Développement*
+
 Part I. June the 1st
 
-# Lecture Columbia-Science-Po-2017: DataDriven development (1h30)
+##  DataDriven development (1h30)
 
 ### 1. Data driven development
 - 	More efficient administration/companies ?
@@ -37,7 +40,7 @@ Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
 Part II. June the 2nd
 
-# Workshop: Datavisulisation when statistics meets datascience (2h30)
+## Workshop: Datavisulisation when statistics meets datascience (2h30)
 This folder contains information and script for the dataviz workshop
 
 For this workshop, we are going to use Python 3.4.3 and JavaScript.
