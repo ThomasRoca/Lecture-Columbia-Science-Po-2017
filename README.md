@@ -50,9 +50,9 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
 -	JavaScript & dataviz
     + quick intro to JavaScript
     + Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
-    + dataviz the example of [highchart](https://www.highcharts.com/) and d3.js[https://d3js.org/]
+    + dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
 -	The API revolution:
-    + Introduction: what is an API ?
+    + Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
     + A world bank API application
     + Use case a twitter application
 
