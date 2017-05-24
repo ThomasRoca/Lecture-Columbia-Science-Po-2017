@@ -1,5 +1,6 @@
 # The Data Driven Lecture & workshop Columbia-SIPA / Science-Po-2017:
 *Thomas Roca, Phd, Researcher and Data Officer @Agence Française de Développement*
+Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://github.com/ThomasRoca/)
 
 Part I. June the 1st
 
