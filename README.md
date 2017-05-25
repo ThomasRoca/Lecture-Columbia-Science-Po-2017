@@ -54,7 +54,7 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
 -	SIG using [Carto](https://carto.com/) and [leaflet](http://leafletjs.com/)
 -	Basic introduction to HTML, CSS
 -	JavaScript & dataviz
-    + quick intro to JavaScript
+    + quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
     + Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
     + dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
 -	The API revolution:
