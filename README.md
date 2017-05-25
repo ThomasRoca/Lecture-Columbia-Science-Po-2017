@@ -66,4 +66,5 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
         - Scrapping the web with [YQL](https://developer.yahoo.com/yql/)(and twitter again) 
 
 ## Further reading:
+- https://www.w3schools.com
 - https://www.highcharts.com/blog/
