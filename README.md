@@ -50,7 +50,7 @@ For this workshop, we are going to use Python 3.4.3 and JavaScript.
 I recommend installing [Python](https://www.python.org/downloads/release/python-343) and a code editor (e.g. [Bracket](http://brackets.io/) or [Notepad++](https://notepad-plus-plus.org/fr/)) we are also going to use [https://jsfiddle.net/](https://jsfiddle.net/)
 
 **Here the thematic this workshop will cover:**
-1. Basic instroduction: (1h30)
+**1. Basic instroduction: (1h30)**
 -   using packages with R and Python (15 min) 
 -	SIG using [Carto](https://carto.com/) and [leaflet](http://leafletjs.com/)
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
@@ -58,7 +58,8 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
     + quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
     + Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
     + dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
-2. Getting real time data: the API revolution: (1h)
+   
+**2. Getting real time data: the API revolution: (1h)**
     + Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
     + Example: Using [twitter API in python](http://nbviewer.jupyter.org/url/www.stats4dev.com/Ipython/Where_on_earth_is_Helen.ipynb)
     + Use cases:
