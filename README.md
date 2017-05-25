@@ -63,12 +63,12 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
    
 **2. Getting real time data: the API revolution: (1h)**
 
-    + Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
-    + Example: Using [twitter API in python](http://nbviewer.jupyter.org/url/www.stats4dev.com/Ipython/Where_on_earth_is_Helen.ipynb)
-    + Use cases:
-        - An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
-        - Buidling an [API based Velib'](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted) application 
-        - Scrapping the web with [YQL](https://developer.yahoo.com/yql/)(and twitter again) 
+- Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
+-  Example: Using [twitter API in python](http://nbviewer.jupyter.org/url/www.stats4dev.com/Ipython/Where_on_earth_is_Helen.ipynb)
+-  Use cases:
+    + An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
+    + Buidling an [API based Velib'](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted) application 
+    + Scrapping the web with [YQL](https://developer.yahoo.com/yql/)(and twitter again) 
 
 ## Further reading:
 - https://www.w3schools.com
