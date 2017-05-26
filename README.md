@@ -8,6 +8,14 @@ Part I. June the 1st
 
 ##  DataDriven development (1h30)
 
+**Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA
+
+Whether they are massive - big data - or more traditional (census, household surveys, administrative data, etc.), we are the witness of the explosion of the use of data for decision and policy making; first within the private sector then in the administration and lately at the crossroads between sectors and public affairs (e.g. Cambridge analytics, project google election, Facebook monitoring fake news etc.)
+
+Algorithms now "make decisions" based on real time data. But these algorithms are mostly black boxes, parsing and computing data that are not open data (which providers have never been so centralized - GAFA, etc.). This raises societal and democratic challenges. 
+
+Are we entereing a Post-StatistiK world? What seems obvisous today is that data and statistics production are no longer a State monoply. What are the promises and challenges of the data revolution ?
+
 ### 1. Data driven development
 - 	More efficient administration/companies ?
 -   Towards more accountable State ?
