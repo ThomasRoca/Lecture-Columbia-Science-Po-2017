@@ -36,7 +36,13 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
  
 ### 3. The Digital Humanitarian movement
 - The history of the digital humanitarian movement
+	- Haïti 2010
+	- Crisis mapping ([Humanitarian OpenStreet Map](https://www.hotosm.org/))
 - Official statistics & Big Data in emergency context
+	- When saving time saves life, real time data matters
+		- Early assessment
+		- Coordination of the emergency response ([UN-OCHA HDX](https://data.humdata.org/))
+	- Getting ready with "traditionnal data"
 
 Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
