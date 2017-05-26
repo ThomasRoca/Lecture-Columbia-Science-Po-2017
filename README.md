@@ -48,7 +48,6 @@ Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
 ## Further reading: 
 - [Data Glossary](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
-- Weapon of Math Destruction
 - Data-Pop Alliance, 2015, “Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data.” [Data-Pop Alliance White Paper Series](http://datapopalliance.org/item/beyond-data-literacy-reinventing-community-engagement-and-empowerment-in-the-age-of-data/). Data-Pop Alliance (Harvard Humanitarian Initiative, MIT Media Lab and Overseas Development Institute) and Internews. September 2015.
 - Meyer, P. 2015, [How Big Data is Changing the Face of Humanitarian Response](http://www.digital-humanitarians.com/)
 - O'Neil, C. 2016, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
