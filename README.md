@@ -6,7 +6,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://
 <br>
 Part I. June the 1st
 
-##  DataDriven development (1h30)
+##  DataDriven development
 
 **Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA
 
