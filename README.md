@@ -14,8 +14,6 @@ Algorithms now "make decisions" based on real time data. But these algorithms ar
 
 Are we entereing a Post-StatistiK world? What seems obvisous today is that data and statistics production are no longer a State monoply. What are the promises and challenges of the data revolution ?
 
----
-
 **Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA
 
 ### 1. Data driven development
@@ -37,6 +35,8 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 - Hybrid data: Crowdsourced data
  
 ### 3. The Digital Humanitarian movement
+- The history of the digital humanitarian movement
+- Official statistics & Big Data in emergency context
 
 Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
