@@ -34,7 +34,7 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
  	- Social network data
    	- Use case: 
 	    - Using cell phone to monitor displacement (use case: [Flowminder 2015 EarthQuake in Nepal](http://www.flowminder.org/case-studies/nepal-earthquake-2015))
-	    - vulnerability to flood using statellite imagery (use case: [Cloud to Street /AFD study)(http://librairie.afd.fr/nt25-va-vunerability-flooding-senegal/))
+	    - vulnerability to flood using statellite imagery (use case: [Cloud to Street /AFD study](http://librairie.afd.fr/nt25-va-vunerability-flooding-senegal/))
 - Big Data: big difficulty to get access to it
     - Data Philanthropy, hackathon..
     - Privacy, security, business
