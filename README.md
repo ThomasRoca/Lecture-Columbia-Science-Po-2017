@@ -17,23 +17,29 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 **Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA
 
 ### 1. Data driven development
-- 	More efficient administration/companies ?
--   Towards more accountable State ?
+- The open movement
+- Towards more accountable States
+- More efficient administration ?
+- Data and Open data in the private sector?
+- What about Development Assistance ?
 
 ### 2. Data, the raw material of the digital revolution:
 - "Traditional" sources of data:
-    - Administrative data
-    - Survey data
+	- Census and Survey data
+    	- Administrative data
+	- Africa's Statisticall Tragedy
+	- Use case: [AFD Data Portal](http://data.afd.fr) & #DataStory 
 - Big Data: when it's raining information
-    - Sensor data (Sat., IoT, Cell-phone)
-    - Social network data
- - Big Data: big difficulty to get access to it
-    - A.I. the winner takes all ?
-    - Data Philanthropy
+    	- Sensor data (Sat., IoT, Cell-phone)
+    	- Social network data
+    	- Use case: 
+	    - Using cell phone to monitor displacement (use case: flowminder 2015 EarthQuake in Nepal)
+	    - vulnerability to flood using statellite imagery (use case: Cloud to Street /AFD study)
+- Big Data: big difficulty to get access to it
+    - Data Philanthropy, hackathon..
     - Privacy, security, business
-    - Hacakthon
+    - A.I. the winner takes all ?
 - Hybrid data: Crowdsourced data
- 
 ### 3. The Digital Humanitarian movement
 - The history of the digital humanitarian movement
 	- Haïti 2010
