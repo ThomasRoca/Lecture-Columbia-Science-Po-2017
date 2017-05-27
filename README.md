@@ -47,12 +47,16 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
 ## Further reading: 
-- [Data Glossary](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
+- [Data Glossary - Data-Pop Alliance](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
+- [Mapping Data Sources for development](https://afdlab4dev.github.io/Wiki-DataExploration-in-AFD/)
 - Data-Pop Alliance, 2015, “Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data.” [Data-Pop Alliance White Paper Series](http://datapopalliance.org/item/beyond-data-literacy-reinventing-community-engagement-and-empowerment-in-the-age-of-data/). Data-Pop Alliance (Harvard Humanitarian Initiative, MIT Media Lab and Overseas Development Institute) and Internews. September 2015.
+- Flowminder, 2016, Rapid and Near Real-Time Assessments of Population Displacement Using Mobile Phone Data Following Disasters: The 2015 Nepal Earthquake, Plos current disasters - [Link](http://currents.plos.org/disasters/article/rapid-and-near-real-time-assessments-of-population-displacement-using-mobile-phone-data-following-disasters-the-2015-nepal-earthquake/)
 - Meyer, P. 2015, [How Big Data is Changing the Face of Humanitarian Response](http://www.digital-humanitarians.com/)
 - O'Neil, C. 2016, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
 - Roca, T. 2015, [Toward data-driven development: Big improvement or big buzz?](https://www.devex.com/news/toward-data-driven-development-big-improvement-or-big-buzz-86192)
 - Roca, T. 2016, [Open algorithms: A new paradigm for using private data for social good](https://www.devex.com/news/open-algorithms-a-new-paradigm-for-using-private-data-for-social-good-88434)
+- Schwarz, B. & al. 2017, Socio-Physical Vulnerability To Flooding In Senegal, AFD, Cloud to Street, [Link](http://librairie.afd.fr/nt25-va-vunerability-flooding-senegal/)
+- Schwarz, B., Roca, T. 2016, Data-driven preparedness for disaster, devex - [link](https://www.devex.com/news/opinion-data-driven-preparedness-for-disaster-88950)
 - UN 2015, Data Revolution Report, [A WORLD THAT COUNTS](http://www.undatarevolution.org/report/)
 - UN-OCHA, 2012, humanitarianism in the network age, [Link](https://www.unocha.org/sites/unocha/files/HINA_0.pdf)
 - UN-OCHA, 2014, Humanitarian Innovation:The State of the Art [link](https://docs.unocha.org/sites/dms/documents/op9_understanding%20innovation_web.pdf)
