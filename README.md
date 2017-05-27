@@ -29,10 +29,10 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
     	- Administrative data
 	- Africa's Statisticall Tragedy
 	- Use case: [AFD Data Portal](http://data.afd.fr) & #DataStory 
-- Big Data: when it's raining information
-    	- Sensor data (Sat., IoT, Cell-phone)
-    	- Social network data
-    	- Use case: 
+- Big Data: when it's raining information:
+ 	- Sensor data (Sat., IoT, Cell-phone)
+ 	- Social network data
+   	- Use case: 
 	    - Using cell phone to monitor displacement (use case: flowminder 2015 EarthQuake in Nepal)
 	    - vulnerability to flood using statellite imagery (use case: Cloud to Street /AFD study)
 - Big Data: big difficulty to get access to it
