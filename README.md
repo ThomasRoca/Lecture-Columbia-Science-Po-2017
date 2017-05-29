@@ -26,7 +26,7 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 ### 2. Data, the raw material of the digital revolution:
 - "Traditional" sources of data:
 	- Census and Survey data
-    	- Administrative data
+	- Administrative data
 	- Africa's Statisticall Tragedy
 	- Use case: [AFD Data Portal](http://data.afd.fr) & #DataStory 
 - Big Data: when it's raining information:
