@@ -63,6 +63,7 @@ Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 - Roca, T. 2016, [Open algorithms: A new paradigm for using private data for social good](https://www.devex.com/news/open-algorithms-a-new-paradigm-for-using-private-data-for-social-good-88434)
 - Schwarz, B. & al. 2017, Socio-Physical Vulnerability To Flooding In Senegal, AFD, Cloud to Street, [Link](http://librairie.afd.fr/nt25-va-vunerability-flooding-senegal/)
 - Schwarz, B., Roca, T. 2016, Data-driven preparedness for disaster, devex - [link](https://www.devex.com/news/opinion-data-driven-preparedness-for-disaster-88950)
+- Slatalla, M., Quittner, J. 1995, Master of Decepetion, the Gang that Ruled the Cyberspace, HarperPerennial
 - UN 2015, Data Revolution Report, [A WORLD THAT COUNTS](http://www.undatarevolution.org/report/)
 - UN-OCHA, 2012, humanitarianism in the network age, [Link](https://www.unocha.org/sites/unocha/files/HINA_0.pdf)
 - UN-OCHA, 2014, Humanitarian Innovation:The State of the Art [link](https://docs.unocha.org/sites/dms/documents/op9_understanding%20innovation_web.pdf)
