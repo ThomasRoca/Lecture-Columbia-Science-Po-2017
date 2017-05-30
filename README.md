@@ -28,7 +28,6 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 	- Census and Survey data
 	- Administrative data
 	- Africa's Statisticall Tragedy
-	- Use case: [AFD Data Portal](http://data.afd.fr) & #DataStory 
 - Big Data: when it's raining information:
  	- Sensor data (Sat., IoT, Cell-phone)
  	- Social network data
