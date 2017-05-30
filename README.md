@@ -16,11 +16,10 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 
 **Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA
 
-### 1. Data driven development
+### 1. Introduction: Open culture and data-driven policy making
 - The open movement
 - Towards more accountable States: from data hacktivism to open government
 - More efficient administration ?
-- Data and Open data in the private sector?
 - What about Development Assistance ?
 
 ### 2. Data, the raw material of the digital revolution:
