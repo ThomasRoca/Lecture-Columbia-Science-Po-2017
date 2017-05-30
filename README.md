@@ -18,7 +18,7 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 
 ### 1. Data driven development
 - The open movement
-- Towards more accountable States
+- Towards more accountable States: from data hacktivism to open government
 - More efficient administration ?
 - Data and Open data in the private sector?
 - What about Development Assistance ?
