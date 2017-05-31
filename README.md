@@ -23,6 +23,7 @@ From accountability to efficiency ?
 - More efficient administration ?
 - What about Development Assistance ?
 - Towards new data partenerships with in the private sector?
+
 Conclusion: data is about people
 	- A new data ecostystem
 	- A new power distribution
