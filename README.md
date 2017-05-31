@@ -16,8 +16,8 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 
 **Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA
 
-### 1. Introduction: Open culture and data-driven policy making
-From accountability to efficiency ?
+### 1. Introduction: The Open movement, from accountability to efficiency
+
 - The open movement
 - Towards more accountable States
 - More efficient administration ?
