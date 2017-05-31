@@ -63,7 +63,7 @@ Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 - Data-Pop Alliance, 2015, “Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data.” [Data-Pop Alliance White Paper Series](http://datapopalliance.org/item/beyond-data-literacy-reinventing-community-engagement-and-empowerment-in-the-age-of-data/). Bhargava, R & al. Data-Pop Alliance (Harvard Humanitarian Initiative, MIT Media Lab and Overseas Development Institute) and Internews. September 2015.
 - Data-Pop Alliance, 2015, "Leveraging Algorithms for Positive Disruption: On data, democracy, society and statistics", [Data-Pop Alliance White Paper Series](http://datapopalliance.org/item/leveraging-algorithms-for-positive-disruption-on-data-democracy-society-and-statistics/), Letouzé, E., Sangokoya, D.
 - Flowminder, 2016, Rapid and Near Real-Time Assessments of Population Displacement Using Mobile Phone Data Following Disasters: The 2015 Nepal Earthquake, Plos current disasters - [Link](http://currents.plos.org/disasters/article/rapid-and-near-real-time-assessments-of-population-displacement-using-mobile-phone-data-following-disasters-the-2015-nepal-earthquake/)
-- Lanier, J. 2013, who owns the future ?
+- Lanier, J. 2013, Who owns the future ?
 - Meyer, P. 2015, [How Big Data is Changing the Face of Humanitarian Response](http://www.digital-humanitarians.com/)
 - O'Neil, C. 2014, On Being a Data Skeptic, [ebook-pdf](http://www.oreilly.com/data/free/files/being-a-data-skeptic.pdf)
 - O'Neil, C. 2016, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
