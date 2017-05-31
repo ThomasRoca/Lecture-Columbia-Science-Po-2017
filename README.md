@@ -37,7 +37,6 @@ Conclusion: data is about people
  	- Sensor data (Sat., IoT, Cell-phone)
  	- Social network data
    	- Use case: 
-	    - Using cell phone to monitor displacement (use case: [Flowminder 2015 EarthQuake in Nepal](http://www.flowminder.org/case-studies/nepal-earthquake-2015))
 	    - vulnerability to flood using statellite imagery (use case: [Cloud to Street /AFD study](http://librairie.afd.fr/nt25-va-vunerability-flooding-senegal/))
 - Big Data: big difficulty to get access to it
     - Privacy, security, business
@@ -48,9 +47,9 @@ Conclusion: data is about people
 	- Crisis mapping ([Humanitarian OpenStreet Map](https://www.hotosm.org/))
 - Official statistics & Big Data in emergency context
 	- When saving time saves life, real time data matters
-		- Early assessment
+		- Early assessment use case:
+				    - Using cell phone to monitor displacement (use case: [Flowminder 2015 EarthQuake in Nepal](http://www.flowminder.org/case-studies/nepal-earthquake-2015))		
 		- Coordination of the emergency response ([UN-OCHA HDX](https://data.humdata.org/))
-	- Getting ready with "traditionnal data"
 
 Conclusion: new tools, new skills and analytics strategy: AI everywhere ?
 
