@@ -19,9 +19,10 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 ### 1. Introduction: Open culture and data-driven policy making
 From accountability to efficiency ?
 - The open movement
-- Towards more accountable States: from data hacktivism to open government
+- Towards more accountable States
 - More efficient administration ?
 - What about Development Assistance ?
+- Towards new data partenerships with in the private sector?
 
 ### 2. Data, the raw material of the digital revolution:
 - "Traditional" sources of data:
