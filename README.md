@@ -21,8 +21,8 @@ From accountability to efficiency ?
 - The open movement
 - Towards more accountable States
 - More efficient administration ?
-- What about Development Assistance ?
 - Towards new data partenerships with in the private sector?
+- What about Development Assistance ?
 
 Conclusion: data is about people
 	- A new data ecostystem
