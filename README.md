@@ -88,7 +88,6 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
 **Here the thematic this workshop will cover:**
 
 **1. Basic instroduction: (1h30)**
-
 -   using packages with R and Python (15 min) 
 -	SIG using [Carto](https://carto.com/) and [leaflet](http://leafletjs.com/)
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
@@ -107,5 +106,7 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
     + Scrapping the web with [YQL](https://developer.yahoo.com/yql/)(and twitter again) 
 
 ## Further reading:
+- Lupi, H., Posavec, S.,2016, "Dear Data", http://www.dear-data.com/
+- Yau, N. 2011, visualize this: the flowingdata guide to design, visualization, and statistics
 - https://www.w3schools.com
 - https://www.highcharts.com/blog/
