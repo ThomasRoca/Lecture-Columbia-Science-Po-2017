@@ -107,6 +107,7 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
 
 ## Further reading:
 - Lupi, H., Posavec, S.,2016, "Dear Data", http://www.dear-data.com/
+- Roca, T. 2014, "Web programming and dataviz with Stata" - [Link](http://stats4dev.com/doc/Stata%20web%20programming.pdf)
 - Yau, N. 2011, visualize this: the flowingdata guide to design, visualization, and statistics
 - https://www.w3schools.com
 - https://www.highcharts.com/blog/
