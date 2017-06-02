@@ -21,6 +21,8 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 #### II. Dataviz workshop
 **Slide available in this folder:** Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb; [+ link to nbviewer](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb)
 
+---
+
 ### 1. Introduction: The Open movement, from accountability to efficiency
 
 - The open movement
