@@ -16,10 +16,10 @@ Are we entereing a Post-StatistiK world? What seems obvisous today is that data 
 
 #### I. Data-driven lecture
 **Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA<br>
-**Slide available in this folder:** Big_Data_Public_Policy_columbia_univ_SIPA.ipynb, [link to nbviewer](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Big_Data_Public_Policy_columbia_univ_SIPA.ipynb)
+**Slide available in this folder:** Big_Data_Public_Policy_columbia_univ_SIPA.ipynb, [ + link to nbviewer](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Big_Data_Public_Policy_columbia_univ_SIPA.ipynb)
 
 #### II. Dataviz workshop
-**Slide available in this folder:** [Dataviz+workshop+Columbia+Science+PO+SIPA.ipynb](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Dataviz+workshop+Columbia+Science+PO+SIPA.ipynb)
+**Slide available in this folder:** Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb; [+ link to nbviewer](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb)
 
 ### 1. Introduction: The Open movement, from accountability to efficiency
 
