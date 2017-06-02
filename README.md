@@ -105,7 +105,7 @@ I recommend installing [Python](https://www.python.org/downloads/release/python-
     + An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
     + Buidling an [API based Velib'](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted) application 
     + Scrapping the web with [YQL](https://developer.yahoo.com/yql/)(and twitter again) 
-
+	- [example: wacky twitter race !](https://www.highcharts.com/blog/post/query-api-twitter-wacky-race-using-highcharts/) 
 ## Further reading:
 - Lupi, H., Posavec, S.,2016, "Dear Data", http://www.dear-data.com/
 - Roca, T. 2014, "Web programming and dataviz with Stata" - [Link](http://stats4dev.com/doc/Stata%20web%20programming.pdf)
